@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "I'll Do It",
+  "base_artist": "Heidi Montag",
+  "createdAt": "2025-12-04T03:14:09.683956Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Do It All",
+      "artist": "Busta Rhymes feat. LaToiya Williams",
+      "has_synced": true,
+      "path": "select/01_I'll_Do_It_All_Busta_Rhymes_feat._LaToiya_Williams.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Do It All (feat. LaToiya Williams)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/02_I'll_Do_It_All_(feat._LaToiya_Williams)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Do It",
+      "artist": "Pat Benatar",
+      "has_synced": false,
+      "path": "select/03_I'll_Do_It_Pat_Benatar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Do It All",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/04_I'll_Do_It_All_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Do It All - Album Version (Edited)",
+      "artist": "Busta Rhymes feat. LaToiya Williams",
+      "has_synced": false,
+      "path": "select/05_I'll_Do_It_All_-_Album_Version_(Edited)_Busta_Rhymes_feat._LaToiya_Williams.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Do It All (Album Version)",
+      "artist": "Busta Rhymes, LaToiya Williams",
+      "has_synced": false,
+      "path": "select/06_I'll_Do_It_All_(Album_Version)_Busta_Rhymes,_LaToiya_Williams.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Do It All Over Again",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/07_I'll_Do_It_All_Over_Again_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Do It",
+      "artist": "Ayesha Erotica",
+      "has_synced": true,
+      "path": "select/08_I'll_Do_It_Ayesha_Erotica.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll do it",
+      "artist": "Ayesha Erotica",
+      "has_synced": true,
+      "path": "select/09_I'll_do_it_Ayesha_Erotica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Do It for You",
+      "artist": "Toussaint McCall",
+      "has_synced": false,
+      "path": "select/10_I'll_Do_It_for_You_Toussaint_McCall.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Do It",
+      "artist": "Heidi Montag",
+      "has_synced": true,
+      "path": "select/11_I'll_Do_It_Heidi_Montag.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Do It Every Time",
+      "artist": "Kyle Park",
+      "has_synced": false,
+      "path": "select/12_I'll_Do_It_Every_Time_Kyle_Park.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Do It",
+      "artist": "Sal Houdini",
+      "has_synced": true,
+      "path": "select/13_I'll_Do_It_Sal_Houdini.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Do It - Sped Up Version",
+      "artist": "Heidi Montag",
+      "has_synced": false,
+      "path": "select/14_I'll_Do_It_-_Sped_Up_Version_Heidi_Montag.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Do It (Sped Up Version)",
+      "artist": "Heidi Montag",
+      "has_synced": false,
+      "path": "select/15_I'll_Do_It_(Sped_Up_Version)_Heidi_Montag.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll Do It",
+      "artist": "Heidi Montag",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_Do_It_Heidi_Montag.txt"
+    }
+  ]
+}
