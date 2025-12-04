@@ -1,0 +1,67 @@
+# Heidi Montag – I'll Do It
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.05] I'll be your blonde tonight, if that's what you like
+[00:16.41] Stilettos and fishnets, if that's what you like
+[00:20.07] I'll be your hot mess, school girl in curls
+[00:24.73] Whatever your type, baby, if that's what you like, I'll do it
+[00:55.23] 
+[00:30.22] Pick me, take me off up into your dungeon
+[00:34.54] I brought some treats, I know that you gon' love 'em
+[00:38.76] Come eat my panties off of me
+[00:41.77] Do whatever you feel comes naturally
+[00:59.77] 
+[00:46.60] 'Cause I wanna let my hair down
+[00:49.89] Is that alright? Is that oka-a-ay?
+[00:54.62] 'Cause I wanna let my hair down
+[00:58.43] Is that alright? Is that oka-a-ay?
+[01:15.43] 
+[01:02.88] I'll be your blonde tonight, if that's what you like
+[01:07.48] Stilettos and fishnets, if that's what you like
+[01:11.00] I'll be your hot mess, school girl in curls
+[01:15.80] Whatever your type, baby, if that's what you like, I'll do it
+[01:46.30] 
+[01:21.86] I'll do it, I'll do it
+[01:24.64] I-I-I-I-I-I-I'll do it, I-I-I-I-I
+[01:27.97] Bitch, I'll do this
+[01:37.47] 
+[01:29.53] I hope you're ready for what I'm 'bout to do
+[01:33.85] Just close your eyes, open up when I tell you
+[01:38.25] Look now, don't touch, I'm gonna start without you
+[01:42.38] Rev me up, just put your key in my ignition, baby
+[02:06.88] 
+[01:45.78] 'Cause I wanna let my hair down
+[01:49.66] Is that alright? Is that oka-a-ay?
+[01:54.28] 'Cause I wanna let my hair down
+[01:57.96] Is that alright? Is that oka-a-ay?
+[02:14.96] 
+[02:02.02] I'll be your blonde tonight, if that's what you like
+[02:06.92] Stilettos and fishnets, if that's what you like
+[02:10.65] I'll be your hot mess, school girl in curls
+[02:15.34] Whatever your type, baby
+[02:17.58] If that's what you like, I'll do it
+[02:35.08] 
+[02:20.66] I'll do it, I'll do it
+[02:23.99] I-I-I-I-I-I-I'll do it, I-I-I-I-I
+[02:27.22] Bitch, I'll do this
+[02:36.72] 
+[02:28.68] I can be your type, you can believe the hype
+[02:33.03] Just push my buttons, baby, I'll go low and you'll go high
+[02:37.28] You can be my pilot, we can mile high it
+[02:41.65] I'll just sit up and make it happen, boy, you better fly it
+[03:11.15] 
+[02:45.23] I'll be your blonde tonight, if that's what you like
+[02:49.57] Stilettos and fishnets, if that's what you like
+[02:53.68] I'll be your hot mess, school girl in curls
+[02:57.65] Whatever your type, baby, if that's what you like, I'll do it
+[03:03.37] Blonde tonight, if that's what you like
+[03:06.67] Stilettos and fishnets, if that's what you like
+[03:10.16] I'll be your hot mess, school girl in curls
+[03:14.77] Whatever your type, baby, if that's what you like, I'll do it
+[03:45.27] 
+[03:20.72] I'll do it, I'll do it
+[03:24.09] I-I-I-I-I-I-I'll do it, I-I-I-I-I
+[03:26.94] Bitch, I'll do this
+```
